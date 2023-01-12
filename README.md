@@ -23,7 +23,10 @@
 
 ### How to Initialize:
 
-    python series.py
+    python madlib_cli/madlib.py
 
 ### Tests
+    
+Tests were pre-written and none skipped
+
 
